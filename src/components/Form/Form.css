@@ -1,0 +1,18 @@
+input{
+    height: 6vh;
+    background-color: rgb(71, 140, 172);
+    font-size: x-large;
+
+}
+button{
+    background-color: rgb(46, 30, 61);
+    width: 20vw;
+    height:5vh;
+    color: rgb(158, 121, 192);
+
+    margin-top: 5vh;
+}
+li{
+    list-style-type: none;
+      list-style: none;
+}
